@@ -1,2 +1,18 @@
-# sistema-cadastro-python
-Sistema de cadastro com armazenamento de dados (nome e idade, por exemplo) em arquivo txt
+# Sistema de Cadastro em Python
+
+## 📌 Descrição
+Sistema simples de cadastro de usuários desenvolvido em Python, com armazenamento em arquivo `.txt`.
+
+## ⚙️ Funcionalidades
+- Cadastro de usuários
+- Listagem de dados
+- Persistência em arquivo
+
+## 🛠 Tecnologias
+- Python
+
+## ▶️ Como executar
+Execute o arquivo principal:
+
+```bash
+python 01.py
